@@ -22,6 +22,10 @@ Hannes Schluchtmannn - Frontend developer - [website](https://hannesschluchtmann
 
 Jens Umland - SEO Consultant - [website](http://jumland.de/)
 
+Oliver Lorenz - node.js developer - [xing](https://www.xing.com/profile/Oliver_Lorenz29/cv)
+
+Andreea Dobrin Dinu - Illustration and Design - [website](http://summerkidworks.com/)
+
 ## Reasoning
 
 I think we (freelancer & client) work better when we talk directly to each other to see if we're the right fit for the job. This is a list I want to point to when someone asks me "if I know someone who can do x"
