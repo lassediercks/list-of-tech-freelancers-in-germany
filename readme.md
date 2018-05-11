@@ -15,8 +15,7 @@
 | Oliver Lorenz        | node.js developer          | [Xing](https://www.xing.com/profile/Oliver_Lorenz29/cv)    |
 | Andreea Dobrin Dinu  | Illustration and Design    | [website](http://summerkidworks.com/)                      |
 | Florian Albrecht     | iOS developer              | [Xing](https://www.xing.com/profile/Florian_Albrecht10/cv) |
-
-Nina Borrusch - Interaction Design [xing](https://www.xing.com/profile/Nina_Borrusch/)
+| Nina Borrusch        | Interaction Design         | [xing](https://www.xing.com/profile/Nina_Borrusch/)        |
 
 ## Reasoning
 
