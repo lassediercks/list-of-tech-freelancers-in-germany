@@ -26,6 +26,8 @@ Oliver Lorenz - node.js developer - [xing](https://www.xing.com/profile/Oliver_L
 
 Andreea Dobrin Dinu - Illustration and Design - [website](http://summerkidworks.com/)
 
+Florian Albrecht - iOS developer - [xing](https://www.xing.com/profile/Florian_Albrecht10/cv)
+
 ## Reasoning
 
 I think we (freelancer & client) work better when we talk directly to each other to see if we're the right fit for the job. This is a list I want to point to when someone asks me "if I know someone who can do x"
