@@ -30,6 +30,8 @@ Florian Albrecht - iOS developer - [xing](https://www.xing.com/profile/Florian_A
 
 David Muellerchen - Angular workshops and consulting - [xing](https://www.xing.com/profile/David_Muellerchen) [website](https://webdave.de)
 
+Nina Borrusch - Interaction Design [xing](https://www.xing.com/profile/Nina_Borrusch/)
+
 ## Reasoning
 
 I think we (freelancer & client) work better when we talk directly to each other to see if we're the right fit for the job. This is a list I want to point to when someone asks me "if I know someone who can do x"
