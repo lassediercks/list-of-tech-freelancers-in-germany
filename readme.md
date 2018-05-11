@@ -16,6 +16,8 @@ Teresa Holfeld - Senior Android Dev - [website](https://teresaholfeld.com/)
 
 Hannes Diercks - JavaScript architect - [website](https://xiphe.github.io/)
 
+Fabian Stehle - AWS Developer & Consultant - [CV](cv.fstehle.com)
+
 ## Reasoning
 
 I think we (freelancer & client) work better when we talk directly to each other to see if we're the right fit for the job. This is a list I want to point to when someone asks me "if I know someone who can do x"
@@ -24,5 +26,8 @@ I generally believe exposure is good as a freelancer that's why I did not ask an
 
 ## Changes
 
-If you feel like your name is missing on this list or you don't want yours on it.
+If you feel like your name is missing on this list or you don't want yours on it:
+
+[You're welcome editing the document](https://github.com/lassediercks/list-of-tech-freelancers-in-hamburg/edit/master/readme.md)
+
 
