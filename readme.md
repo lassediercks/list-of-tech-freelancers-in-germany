@@ -19,17 +19,17 @@
 | Robert Schönthal     | Software Engineer / Architect | [website](https://digitalkaoz.net)                      |
 | Vasilis Chatzipanagiotis | Fullstack Javascript Engineer | [xing](https://www.xing.com/profile/Vasilis_Chatzipanagiotis) |
 | David Muellerchen    | Angular workshops and consulting | [xing](https://www.xing.com/profile/David_Muellerchen) [website](https://webdave.de) | 
-| Kjell Otto .         | Software Engineer BE / FE  | [Xing](https://www.xing.com/profile/Kjell_Otto/cv)        |
+| Kjell Otto           | Software Engineer BE / FE  | [Xing](https://www.xing.com/profile/Kjell_Otto/cv)        |
 | Ben Pauer            | Full-Stack Designer        | [Xing](https://www.xing.com/profile/Benjamin_Pauer/)       |
 
 ## Glossary
 
-BE - Backend
-CD - Creative Director 
-FE - Frontend
-SEO - Search Engine Optimization
-UI - User Interaction
-UX - User Experience
+* BE - Backend
+* CD - Creative Director 
+* FE - Frontend
+* SEO - Search Engine Optimization
+* UI - User Interaction
+* UX - User Experience
 
 ## Reasoning
 
