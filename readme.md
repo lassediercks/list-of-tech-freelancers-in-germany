@@ -17,8 +17,10 @@
 | Florian Albrecht     | iOS developer              | [Xing](https://www.xing.com/profile/Florian_Albrecht10/cv) |
 | Nina Borrusch        | Interaction Design         | [xing](https://www.xing.com/profile/Nina_Borrusch/)        |
 | Robert Schönthal     | Software Engineer / Architect | [website](https://digitalkaoz.net)                      |
+| Vasilis Chatzipanagiotis | Fullstack Javascript Engineer | [xing](https://www.xing.com/profile/Vasilis_Chatzipanagiotis) |
 | David Muellerchen    | Angular workshops and consulting | [xing](https://www.xing.com/profile/David_Muellerchen) [website](https://webdave.de) | 
 | Kjell Otto .         | Software Engineer BE / FE  | [Xing](https://www.xing.com/profile/Kjell_Otto/cv)        |
+
 
 ## Reasoning
 
