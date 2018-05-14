@@ -20,7 +20,8 @@
 | Vasilis Chatzipanagiotis | Fullstack Javascript Engineer | [xing](https://www.xing.com/profile/Vasilis_Chatzipanagiotis) |
 | David Muellerchen    | Angular workshops and consulting | [xing](https://www.xing.com/profile/David_Muellerchen) [website](https://webdave.de) | 
 | Kjell Otto           | Software Engineer BE / FE  | [Xing](https://www.xing.com/profile/Kjell_Otto/cv)        |
-| Ben Pauer            | Full-Stack Designer        | [Xing](https://www.xing.com/profile/Benjamin_Pauer/)       |
+| Ben Pauer            | Full-Stack Designer        | [Xing](https://www.xing.com/profile/Benjamin_Pauer/)      |
+| Ralph von der Heyden | Software Developer BE / FE | [Xing](https://www.xing.com/profile/Ralph_vonderHeyden)   |
 
 ## Glossary
 
