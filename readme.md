@@ -1,27 +1,29 @@
 # List of tech freelancers in Hamburg
 
-| Name                 | Title                      | Contact                                                    |
-| -------------------- | -------------------------- | ---------------------------------------------------------- |
-| Johanna Aust         | UX Design                  | [Xing](https://www.xing.com/profile/Johanna_Aust)          |
-| Melanie Bott         | CD Interactive UX/UI       | [Xing](https://www.xing.com/profile/Melanie_Bott4)         |
-| Paul Mölders         | Software Engineer          | [website](https://www.p0wl.space/)                         |
-| Sebastian Eichner    | Agile Software Development | [twitter](https://twitter.com/stdout)                      |
-| Bastian Peters       | Product Manager            | [Xing](https://www.xing.com/profile/Bastian_Peters10)      |
-| Teresa Holfeld       | Senior Android Dev         | [website](https://teresaholfeld.com/)                      |
-| Hannes Diercks       | JavaScript architect       | [website](https://xiphe.github.io/)                        |
-| Fabian Stehle        | AWS Developer & Consultant | [CV](cv.fstehle.com)                                       |
-| Hannes Schluchtmannn | Frontend developer         | [website](https://hannesschluchtmann.com/)                 |
-| Jens Umland          | SEO Consultant             | [website](http://jumland.de/)                              |
-| Oliver Lorenz        | node.js developer          | [Xing](https://www.xing.com/profile/Oliver_Lorenz29/cv)    |
-| Andreea Dobrin Dinu  | Illustration and Design    | [website](http://summerkidworks.com/)                      |
-| Florian Albrecht     | iOS developer              | [Xing](https://www.xing.com/profile/Florian_Albrecht10/cv) |
-| Nina Borrusch        | Interaction Design         | [xing](https://www.xing.com/profile/Nina_Borrusch/)        |
-| Robert Schönthal     | Software Engineer / Architect | [website](https://digitalkaoz.net)                      |
-| Vasilis Chatzipanagiotis | Fullstack Javascript Engineer | [xing](https://www.xing.com/profile/Vasilis_Chatzipanagiotis) |
-| David Muellerchen    | Angular workshops and consulting | [xing](https://www.xing.com/profile/David_Muellerchen) [website](https://webdave.de) | 
-| Kjell Otto           | Software Engineer BE / FE  | [Xing](https://www.xing.com/profile/Kjell_Otto/cv)        |
-| Ben Pauer            | Full-Stack Designer        | [Xing](https://www.xing.com/profile/Benjamin_Pauer/)      |
-| Ralph von der Heyden | Software Developer BE / FE | [Xing](https://www.xing.com/profile/Ralph_vonderHeyden)   |
+| Name                     | Title                               | Contact                                                                              |
+|--------------------------|-------------------------------------|--------------------------------------------------------------------------------------|
+| Johanna Aust             | UX Design                           | [Xing](https://www.xing.com/profile/Johanna_Aust)                                    |
+| Melanie Bott             | CD Interactive UX/UI                | [Xing](https://www.xing.com/profile/Melanie_Bott4)                                   |
+| Paul Mölders             | Software Engineer                   | [website](https://www.p0wl.space/)                                                   |
+| Sebastian Eichner        | Agile Software Development          | [twitter](https://twitter.com/stdout)                                                |
+| Bastian Peters           | Product Manager                     | [Xing](https://www.xing.com/profile/Bastian_Peters10)                                |
+| Teresa Holfeld           | Senior Android Dev                  | [website](https://teresaholfeld.com/)                                                |
+| Hannes Diercks           | JavaScript architect                | [website](https://xiphe.github.io/)                                                  |
+| Fabian Stehle            | AWS Developer & Consultant          | [CV](cv.fstehle.com)                                                                 |
+| Hannes Schluchtmannn     | Frontend developer                  | [website](https://hannesschluchtmann.com/)                                           |
+| Jens Umland              | SEO Consultant                      | [website](http://jumland.de/)                                                        |
+| Oliver Lorenz            | node.js developer                   | [Xing](https://www.xing.com/profile/Oliver_Lorenz29/cv)                              |
+| Andreea Dobrin Dinu      | Illustration and Design             | [website](http://summerkidworks.com/)                                                |
+| Florian Albrecht         | iOS developer                       | [Xing](https://www.xing.com/profile/Florian_Albrecht10/cv)                           |
+| Nina Borrusch            | Interaction Design                  | [xing](https://www.xing.com/profile/Nina_Borrusch/)                                  |
+| Robert Schönthal         | Software Engineer / Architect       | [website](https://digitalkaoz.net)                                                   |
+| Vasilis Chatzipanagiotis | Fullstack Javascript Engineer       | [xing](https://www.xing.com/profile/Vasilis_Chatzipanagiotis)                        |
+| David Muellerchen        | Angular workshops and consulting    | [xing](https://www.xing.com/profile/David_Muellerchen) [website](https://webdave.de) |
+| Kjell Otto               | Software Engineer BE / FE           | [Xing](https://www.xing.com/profile/Kjell_Otto/cv)                                   |
+| Ben Pauer                | Full-Stack Designer                 | [Xing](https://www.xing.com/profile/Benjamin_Pauer/)                                 |
+| Ralph von der Heyden     | Software Developer BE / FE          | [Xing](https://www.xing.com/profile/Ralph_vonderHeyden)                              |
+| Lee Hambley              | Software Developer / Ops Consultant | [Xing](https://www.xing.com/profile/Lee_Hambley)                                     |
+
 
 ## Glossary
 
