@@ -23,12 +23,13 @@
 | Ben Pauer                | Full-Stack Designer                 | [Xing](https://www.xing.com/profile/Benjamin_Pauer/)                                 |
 | Ralph von der Heyden     | Software Developer BE / FE          | [Xing](https://www.xing.com/profile/Ralph_vonderHeyden)                              |
 | Lee Hambley              | Software Developer / Ops Consultant | [Xing](https://www.xing.com/profile/Lee_Hambley)                                     |
+| Dennis Schön              | Software Engineer BE | [Xing](https://www.xing.com/profile/DennisSchoen)                                     |
 
 
 ## Glossary
 
 * BE - Backend
-* CD - Creative Director 
+* CD - Creative Director
 * FE - Frontend
 * SEO - Search Engine Optimization
 * UI - User Interaction
