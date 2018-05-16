@@ -23,6 +23,7 @@
 | Ben Pauer                | Full-Stack Designer                 | [Xing](https://www.xing.com/profile/Benjamin_Pauer/)                                 |
 | Ralph von der Heyden     | Software Developer BE / FE          | [Xing](https://www.xing.com/profile/Ralph_vonderHeyden)                              |
 | Lee Hambley              | Software Developer / Ops Consultant | [Xing](https://www.xing.com/profile/Lee_Hambley)                                     |
+| Marc Sowen               | Software Developer BE               | [Xing](https://www.xing.com/profile/Marc_Sowen)                                     |
 
 
 ## Glossary
