@@ -24,6 +24,7 @@
 | Ralph von der Heyden     | Software Developer BE / FE          | [Xing](https://www.xing.com/profile/Ralph_vonderHeyden)                              |
 | Lee Hambley              | Software Developer / Ops Consultant | [Xing](https://www.xing.com/profile/Lee_Hambley)                                     |
 | Marc Sowen               | Software Developer BE               | [Xing](https://www.xing.com/profile/Marc_Sowen)                                     |
+| Dennis Schön             | Software Engineer BE                | [Xing](https://www.xing.com/profile/DennisSchoen)                                    |
 
 
 ## Glossary
