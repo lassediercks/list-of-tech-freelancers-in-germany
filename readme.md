@@ -26,6 +26,8 @@
 | Marc Sowen               | Software Developer BE               | [Xing](https://www.xing.com/profile/Marc_Sowen)                                      |
 | Dennis Schön             | Software Engineer BE                | [Xing](https://www.xing.com/profile/DennisSchoen)                                    |
 | Manuel Wiedenmann        | Software Developer BE / FE          | [LinkedIn](https://www.linkedin.com/in/manuel-wiedenmann/)                           |
+| Kevin Eulenberg          | Developer for eCommerce BE / FE  	 | [website](http://frontend.hamburg/)
+                           |
 
 
 ## Glossary
