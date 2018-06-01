@@ -1,6 +1,9 @@
-# List of tech freelancers in Hamburg
+# List of tech freelancers in Germany
 
-| Name                     | Title                               | Contact                                                                              |
+
+## Hamburg
+
+| Name                     | Title                               | Contact                         |
 |--------------------------|-------------------------------------|--------------------------------------------------------------------------------------|
 | Johanna Aust             | UX Design                           | [Xing](https://www.xing.com/profile/Johanna_Aust)                                    |
 | Melanie Bott             | CD Interactive UX/UI                | [Xing](https://www.xing.com/profile/Melanie_Bott4)                                   |
@@ -25,9 +28,15 @@
 | Lee Hambley              | Software Developer / Ops Consultant | [Xing](https://www.xing.com/profile/Lee_Hambley)                                     |
 | Marc Sowen               | Software Developer BE               | [Xing](https://www.xing.com/profile/Marc_Sowen)                                      |
 | Dennis Schön             | Software Engineer BE                | [Xing](https://www.xing.com/profile/DennisSchoen)                                    |
-| Manuel Wiedenmann        | Software Developer BE / FE          | [LinkedIn](https://www.linkedin.com/in/manuel-wiedenmann/)                           |
-| Kevin Eulenberg          | Developer for eCommerce BE / FE  	 | [website](http://frontend.hamburg/) | 
+| Manuel Wiedenmann        | Software Developer BE / FE          | [LinkedIn](https://www.linkedin.com/in/manuel-wiedenmann/)                           
+| Kevin Eulenberg          | Developer for eCommerce BE / FE  	 | [website](http://frontend.hamburg/) 
 
+
+## Berlin
+
+| Name                     | Title                               | Contact                                                  
+|--------------------------|-------------------------------------|--------------------------------------------------------------------------------------|
+| Marcel Wichmann             | Designer                           | [website](http://marcel.io/)  
 
 ## Glossary
 
