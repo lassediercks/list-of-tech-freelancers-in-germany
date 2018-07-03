@@ -31,6 +31,8 @@
 | Manuel Wiedenmann        | Software Developer BE / FE          | [LinkedIn](https://www.linkedin.com/in/manuel-wiedenmann/)                           
 | Kevin Eulenberg          | Developer for eCommerce BE / FE  	 | [website](http://frontend.hamburg/) 
 | Simon Ernst              | Senior Ruby Developer / DevOps      | [CV](https://simonernst.com/cv/)    
+| Julian Hinz              | (Senior) Product / Project Manager  | [LinkedIn](https://www.linkedin.com/in/julian-hinz/)    
+
 
 
 ## Berlin
