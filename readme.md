@@ -34,13 +34,18 @@
 | Julian Hinz              | (Senior) Product / Project Manager  | [LinkedIn](https://www.linkedin.com/in/julian-hinz/)    
 
 
-
 ## Berlin
 
 | Name                     | Title                               | Contact                                                  
 |--------------------------|-------------------------------------|--------------------------------------------------------------------------------------|
 | Marcel Wichmann             | Designer                           | [website](http://marcel.io/)  
 | Anna Melzer             | Software Engineer & Trainer FE                         | [Xing](https://www.xing.com/profile/Anna_Melzer), [CV](https://stackoverflow.com/users/story/1554773) 
+
+## Remote
+| Name                     | Title                               | Contact                                                  
+|--------------------------|-------------------------------------|--------------------------------------------------------------------------------------|
+| Manuel Arno Korfmann     | Software Developer BE / FE  | [E-Mail](mailto:manu@korfmann.info)    
+
 
 ## Glossary
 
