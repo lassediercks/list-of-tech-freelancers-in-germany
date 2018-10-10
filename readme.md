@@ -14,10 +14,10 @@
 | Jens Umland              | SEO Consultant                      | [website](http://jumland.de/)                                                        |
 | Sebastian Eichner        | Agile Software Development          | [twitter](https://twitter.com/stdout)                                                |
 | Bastian Peters           | Product Manager                     | [Xing](https://www.xing.com/profile/Bastian_Peters10)                                |
+| Hannes Schluchtmannn     | Frontend developer                  | [website](https://hannesschluchtmann.com/)                                           |
 | Paul Mölders             | Software Engineer                   | [website](https://www.p0wl.space/)                                                   |
 | Hannes Diercks           | JavaScript architect                | [website](https://xiphe.github.io/)                                                  |
 | Fabian Stehle            | AWS Developer & Consultant          | [CV](cv.fstehle.com)                                                                 |
-| Hannes Schluchtmannn     | Frontend developer                  | [website](https://hannesschluchtmann.com/)                                           |
 | Oliver Lorenz            | node.js developer                   | [Xing](https://www.xing.com/profile/Oliver_Lorenz29/cv)                              |
 | Teresa Holfeld           | Senior Android Dev                  | [website](https://teresaholfeld.com/)                                                |
 | Florian Albrecht         | iOS developer                       | [Xing](https://www.xing.com/profile/Florian_Albrecht10/cv)                           |
@@ -45,7 +45,7 @@
 | -------------------- | -------------------------- | -------------------------------------------------------------------------------------- |
 | Manuel Arno Korfmann | Software Developer BE / FE | [E-Mail](mailto:manu@korfmann.info)                                                    |
 | Lea Rosema           | Software Developer BE / FE | [website](https://terabaud.github.io), [Xing](https://www.xing.com/profile/Lea_Rosema) |
-| Stefan Strigler      | Software Developer BE      | [LinkedIn](https://www.linkedin.com/in/stefan-strigler-78494b6b/)               
+| Stefan Strigler      | Software Developer BE      | [LinkedIn](https://www.linkedin.com/in/stefan-strigler-78494b6b/)                      |
 
 ## Glossary
 
