@@ -35,10 +35,9 @@
 
 ## Berlin
 
-| Name            | Title                          | Contact                                                                                               |
-| --------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| Marcel Wichmann | Designer                       | [website](http://marcel.io/)                                                                          |
-| Anna Melzer     | Software Engineer & Trainer FE | [Xing](https://www.xing.com/profile/Anna_Melzer), [CV](https://stackoverflow.com/users/story/1554773) |
+| Name        | Title                          | Contact                                                                                               |
+| ----------- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| Anna Melzer | Software Engineer & Trainer FE | [Xing](https://www.xing.com/profile/Anna_Melzer), [CV](https://stackoverflow.com/users/story/1554773) |
 
 ## Remote
 
