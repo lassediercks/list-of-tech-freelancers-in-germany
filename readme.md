@@ -32,6 +32,7 @@
 | Manuel Wiedenmann        | Software Developer BE / FE          | [LinkedIn](https://www.linkedin.com/in/manuel-wiedenmann/)                           |
 | Kevin Eulenberg          | Developer for eCommerce BE / FE     | [website](http://frontend.hamburg/)                                                  |
 | Simon Ernst              | Senior Ruby Developer / DevOps      | [CV](https://simonernst.com/cv/)                                                     |
+| Mathias Lafeldt          | Senior AWS/Cloud Consultant         | [Website](https://mlafeldt.github.io/)                                               |
 
 ## Berlin
 
