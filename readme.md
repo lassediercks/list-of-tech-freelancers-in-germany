@@ -33,6 +33,7 @@
 | Kevin Eulenberg          | Developer for eCommerce BE / FE     | [website](http://frontend.hamburg/)                                                  |
 | Simon Ernst              | Senior Ruby Developer / DevOps      | [CV](https://simonernst.com/cv/)                                                     |
 | Mathias Lafeldt          | Senior AWS/Cloud Consultant         | [website](https://mlafeldt.github.io/)                                               |
+| Thorsten Boock           | Senior Software Engineer / DevOps   | [website](https://codegy.de/)                                                        |
 
 ## Berlin
 
