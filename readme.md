@@ -16,7 +16,6 @@
 | Sebastian Eichner        | Agile Software Development            | [Twitter](https://twitter.com/stdout)                                                |
 | Bastian Peters           | Product Manager                       | [Xing](https://www.xing.com/profile/Bastian_Peters10)                                |
 | Karsten Buckstegge       | Illustration & Development            | [website](https://karstenbuckstegge.de/)                                             |
-| Hannes Schluchtmannn     | Frontend developer                    | [website](https://hannesschluchtmann.com/)                                           |
 | Paul Mölders             | Software Engineer                     | [website](https://www.p0wl.space/)                                                   |
 | Hannes Diercks           | JavaScript architect                  | [website](https://xiphe.github.io/)                                                  |
 | Fabian Stehle            | AWS Developer & Consultant            | [CV](cv.fstehle.com)                                                                 |
