@@ -37,6 +37,7 @@
 | Mathias Lafeldt          | Senior AWS/Cloud Consultant           | [website](https://mlafeldt.github.io/)                                               |
 | Thorsten Boock           | Senior Software Engineer / DevOps     | [website](https://codegy.de/)                                                        |
 | Sebastian Schürmann      | Node.js development/Agile development | [website](https://sebs.github.io)                                                    |
+| Gregor Swatek      | UX Design / Product Owner / Developer FE | [website](http://www.vonfoorn.com)                                                    |
 
 ## Berlin
 
