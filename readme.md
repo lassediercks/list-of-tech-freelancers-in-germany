@@ -43,6 +43,7 @@
 | Name        | Title                          | Contact                                                                                               |
 | ----------- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
 | Anna Melzer | Software Engineer & Trainer FE | [Xing](https://www.xing.com/profile/Anna_Melzer), [CV](https://stackoverflow.com/users/story/1554773) |
+| Lars Fronius | Software Engineer BE & AWS Consultant | [website](https://fronius.me)
 
 ## Remote
 
