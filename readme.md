@@ -48,6 +48,7 @@
 
 | Name                 | Title                      | Contact                                                                                |
 | -------------------- | -------------------------- | -------------------------------------------------------------------------------------- |
+| Felix Goldstein      | Full-Stack Webdeveloper    |[Linkedin](https://www.linkedin.com/in/felix-goldstein-3623293/) |
 | Manuel Arno Korfmann | Software Developer BE / FE | [E-Mail](mailto:manu@korfmann.info)                                                    |
 | Lea Rosema           | Software Developer BE / FE | [website](https://terabaud.github.io), [Xing](https://www.xing.com/profile/Lea_Rosema) |
 | Stefan Strigler      | Software Developer BE      | [LinkedIn](https://www.linkedin.com/in/stefan-strigler-78494b6b/)                      |
