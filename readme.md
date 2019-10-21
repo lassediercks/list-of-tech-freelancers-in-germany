@@ -44,6 +44,12 @@
 | ----------- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
 | Anna Melzer | Software Engineer & Trainer FE | [Xing](https://www.xing.com/profile/Anna_Melzer), [CV](https://stackoverflow.com/users/story/1554773) |
 
+## Cologne
+
+| ----------- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| Osamah
+Aldoaiss | UI-Engineer | [Website](https://www.aldoaiss.de) |
+
 ## Remote
 
 | Name                 | Title                      | Contact                                                                                |
