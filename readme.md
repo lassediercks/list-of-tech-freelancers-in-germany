@@ -16,7 +16,6 @@
 | Sebastian Eichner        | Agile Software Development            | [Twitter](https://twitter.com/stdout)                                                |
 | Bastian Peters           | Product Manager                       | [Xing](https://www.xing.com/profile/Bastian_Peters10)                                |
 | Karsten Buckstegge       | Illustration & Development            | [website](https://karstenbuckstegge.de/)                                             |
-| Hannes Schluchtmannn     | Frontend developer                    | [website](https://hannesschluchtmann.com/)                                           |
 | Paul Mölders             | Software Engineer                     | [website](https://www.p0wl.space/)                                                   |
 | Hannes Diercks           | JavaScript architect                  | [website](https://xiphe.github.io/)                                                  |
 | Fabian Stehle            | AWS Developer & Consultant            | [CV](cv.fstehle.com)                                                                 |
@@ -37,12 +36,25 @@
 | Mathias Lafeldt          | Senior AWS/Cloud Consultant           | [website](https://mlafeldt.github.io/)                                               |
 | Thorsten Boock           | Senior Software Engineer / DevOps     | [website](https://codegy.de/)                                                        |
 | Sebastian Schürmann      | Node.js development/Agile development | [website](https://sebs.github.io)                                                    |
+| Gregor Swatek         | UX Design / Product Owner / Developer FE | [website](http://www.vonfoorn.com)                                                    |
+| Csaba Apagyi             | Ruby / JS Full-Stack developer        | [LinkedIn](https://www.linkedin.com/in/csaba-apagyi/)                                                    |
+| Denis Pinna             | Android (Java & Kotlin) developer        | [LinkedIn](https://www.linkedin.com/in/denis-pinna-7495298a/)                                                    |
+| Denys Zaliskyi           | Software Engineer BE (FinTech)        | [LinkedIn](https://www.linkedin.com/in/dzdidi/)                                      |
 
 ## Berlin
 
 | Name        | Title                          | Contact                                                                                               |
 | ----------- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
 | Anna Melzer | Software Engineer & Trainer FE | [Xing](https://www.xing.com/profile/Anna_Melzer), [CV](https://stackoverflow.com/users/story/1554773) |
+| Lars Fronius | Software Engineer BE & AWS Consultant | [website](https://fronius.me)
+
+## Leipzig
+
+
+| Name        | Title                          | Contact                                                                                               |
+| ----------- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| Justin Schueler | Digital Designer | [Website](https://jschueler.com/) |
+
 
 ## Cologne
 
@@ -54,6 +66,7 @@ Aldoaiss | UI-Engineer | [Website](https://www.aldoaiss.de) |
 
 | Name                 | Title                      | Contact                                                                                |
 | -------------------- | -------------------------- | -------------------------------------------------------------------------------------- |
+| Felix Goldstein      | Full-Stack Webdeveloper    |[Linkedin](https://www.linkedin.com/in/felix-goldstein-3623293/) |
 | Manuel Arno Korfmann | Software Developer BE / FE | [E-Mail](mailto:manu@korfmann.info)                                                    |
 | Lea Rosema           | Software Developer BE / FE | [website](https://terabaud.github.io), [Xing](https://www.xing.com/profile/Lea_Rosema) |
 | Stefan Strigler      | Software Developer BE      | [LinkedIn](https://www.linkedin.com/in/stefan-strigler-78494b6b/)                      |
