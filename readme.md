@@ -6,6 +6,7 @@
 | ------------------------ | ---------------------------------------- | ------------------------------------------------------------------------------------ |
 | Alisha Steffens          | Marketing Conversion                     | [website](https://www.alisha-steffens.de/)                                           |
 | Line Andermark           | UX Design                                | [website](https://www.andermark.com/)                                                |
+| Erik Matt                | Product Owner / Agile Project Manager    | [website](https://www.erikmatt.de/)             
 | Johanna Aust             | UX Design                                | [Xing](https://www.xing.com/profile/Johanna_Aust)                                    |
 | Melanie Bott             | CD Interactive UX/UI                     | [Xing](https://www.xing.com/profile/Melanie_Bott4)                                   |
 | Ben Pauer                | Full-Stack Designer                      | [Xing](https://www.xing.com/profile/Benjamin_Pauer/)                                 |
