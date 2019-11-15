@@ -42,6 +42,7 @@
 | Csaba Apagyi             | Ruby / JS Full-Stack developer           | [LinkedIn](https://www.linkedin.com/in/csaba-apagyi/)                                |
 | Denis Pinna              | Android (Java & Kotlin) developer        | [LinkedIn](https://www.linkedin.com/in/denis-pinna-7495298a/)                        |
 | Denys Zaliskyi           | Software Engineer BE (FinTech)           | [LinkedIn](https://www.linkedin.com/in/dzdidi/)                                      |
+| André König              | Software Engineer / Architect            | [website](https://andrekoenig.de)                                                   |
 
 ## Berlin
 
