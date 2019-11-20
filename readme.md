@@ -44,6 +44,7 @@
 | Denys Zaliskyi           | Software Engineer BE (FinTech)           | [LinkedIn](https://www.linkedin.com/in/dzdidi/)                                      |
 | Philipp Bräutigam        | Senior Software Engineer / Consultant    | [website](https://philipp-braeutigam.de)                                             |
 | André König              | Software Engineer / Architect            | [website](https://andrekoenig.de)                                                    |
+| Georg Tavonius           | Software Developer FE / BE               | [website](https://www.tavonius.de)                                                    |
 
 ## Berlin
 
