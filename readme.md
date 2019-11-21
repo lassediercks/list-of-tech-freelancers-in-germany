@@ -45,6 +45,8 @@
 | Philipp Bräutigam        | Senior Software Engineer / Consultant    | [website](https://philipp-braeutigam.de)                                             |
 | André König              | Software Engineer / Architect            | [website](https://andrekoenig.de)                                                    |
 | Georg Tavonius           | Software Developer FE / BE               | [website](https://www.tavonius.de)                                                    |
+| Stefan Frede             | Frontend Developer                       | [website](https://www.frede.io/)                                                    |
+| Nils Schönwald           | Software Developer FE                    | [website](https://schoen.world)                                                      |
 
 ## Berlin
 
