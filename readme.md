@@ -36,7 +36,7 @@
 | Marc Sowen               | Software Developer BE                    | [Xing](https://www.xing.com/profile/Marc_Sowen)                                      |
 | Dennis Schön             | Software Engineer BE                     | [Xing](https://www.xing.com/profile/DennisSchoen)                                    |
 | Simon Ernst              | Senior Ruby Developer / DevOps           | [CV](https://simonernst.com/cv/)                                                     |
-| Mathias Lafeldt          | Senior AWS/Cloud Consultant              | [website](https://mlafeldt.github.io/)                                               |
+| Mathias Lafeldt          | Senior AWS/Cloud Consultant              | [website](https://sharpend.io)                                               |
 | Thorsten Boock           | Senior Software Engineer / DevOps        | [website](https://codegy.de/)                                                        |
 | Sebastian Schürmann      | Node.js development/Agile development    | [website](https://sebs.github.io)                                                    |
 | Csaba Apagyi             | Ruby / JS Full-Stack developer           | [LinkedIn](https://www.linkedin.com/in/csaba-apagyi/)                                |
