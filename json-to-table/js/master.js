@@ -47,7 +47,11 @@ function jsonToTable(json, classes) {
       bodyRows += "<tr>";
 
       cols.slice(0, -1).map(function(colName) {
-         bodyRows += "<td>" + row[colName] + "</td>";
+         if(row[colName] == undefined) {
+            bodyRows += "<td></td>";
+         } else {
+            bodyRows += "<td>" + row[colName] + "</td>";
+         }
       })
 
       bodyRows += "</tr>";

@@ -9,16 +9,23 @@ $serif: 'p22-mackinac-pro';
    padding: 0;
    outline: none;
    appearance: none;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 body {
    width: 70%;
    margin: 100px auto;
+   
 }
 
 h1, h2, h3, h4, h5, h6 {
    font-family: $serif;
    margin-bottom: 20px;
+}
+
+h1 {
+   font-size: 45px;
+   font-weight: bold;
 }
 
 p {
@@ -35,3 +42,23 @@ header {
 }
 
 // table
+#table {
+   margin-top: 50px;
+
+   tr {
+      th, td {
+         padding: 10px 30px 10px 10px;
+      }
+      th {
+         text-align: left;
+         margin-bottom: 10px;
+      }
+
+      td {
+      }
+      
+      &:nth-child(2n) {
+         background: lighten($color: $dark, $amount: 95%);
+      }
+   }
+}
