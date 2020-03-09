@@ -10,26 +10,54 @@
     <link rel="stylesheet" href="css/master.css" />
   </head>
   <body>
-    <header>
-      <h1>
-        Tech Freelancers in Germany
-      </h1>
-      <p>
-        I think we (freelancer & client) work better when we talk directly to
-        each other to see if we're the right fit for the job. This is a list I
-        want to point to when someone asks me "if I know someone who can do x"
-      </p>
-      <p>
-        I generally believe exposure is good as a freelancer that's why I did
-        not ask anyone if I am allowed to put them here.
-      </p>
-    </header>
-
-    <div id="table"></div>
+    <main id="app">
+      <header>
+        <h1>
+          Tech Freelancers in Germany
+        </h1>
+        <p>
+          I think we (freelancer & client) work better when we talk directly to
+          each other to see if we're the right fit for the job. This is a list I
+          want to point to when someone asks me "if I know someone who can do x"
+        </p>
+        <p>
+          I generally believe exposure is good as a freelancer that's why I did
+          not ask anyone if I am allowed to put them here.
+        </p>
+      </header>
+      <div v-for="city in data" :key="city.name">
+        <h2>{{city.name}}</h2>
+        <div id="table">
+          <table class="table">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Title</th>
+                <th>Website</th>
+                <th>Xing</th>
+                <th>LinkedIn</th>
+                <th>Mail</th>
+              </tr>
+            </thead>
+            <tbody>
+              <template v-for="(freelancer, index) in city.freelancer">
+                <tr>
+                  <td>{{freelancer.name}}</td>
+                  <td>{{freelancer.title}}</td>
+                  <td>{{freelancer.website}}</td>
+                  <td>{{freelancer.xing ? freelancer.xing : ''}}</td>
+                  <td>{{freelancer.linkedIn ? freelancer.linkedIn : ''}}</td>
+                  <td>{{freelancer.mail}}</td>
+                </tr>
+              </template>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </main>
 
     <!-- script -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     <script src="../freelancers.js"></script>
-    <script src="js/master.js"></script>
   </body>
 </html>
