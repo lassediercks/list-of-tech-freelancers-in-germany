@@ -36,7 +36,7 @@
 | Marc Sowen               | Software Developer BE                    | [Xing](https://www.xing.com/profile/Marc_Sowen)                                      |
 | Dennis Schön             | Software Engineer BE                     | [Xing](https://www.xing.com/profile/DennisSchoen)                                    |
 | Simon Ernst              | Senior Ruby Developer / DevOps           | [CV](https://simonernst.com/cv/)                                                     |
-| Mathias Lafeldt          | Senior AWS/Cloud Consultant              | [website](https://sharpend.io)                                               |
+| Mathias Lafeldt          | Senior AWS/Cloud Consultant              | [website](https://sharpend.io)                                                       |
 | Thorsten Boock           | Senior Software Engineer / DevOps        | [website](https://codegy.de/)                                                        |
 | Sebastian Schürmann      | Node.js development/Agile development    | [website](https://sebs.github.io)                                                    |
 | Csaba Apagyi             | Ruby / JS Full-Stack developer           | [LinkedIn](https://www.linkedin.com/in/csaba-apagyi/)                                |
@@ -44,11 +44,11 @@
 | Denys Zaliskyi           | Software Engineer BE (FinTech)           | [LinkedIn](https://www.linkedin.com/in/dzdidi/)                                      |
 | Philipp Bräutigam        | Senior Software Engineer / Consultant    | [website](https://philipp-braeutigam.de)                                             |
 | André König              | Software Engineer / Architect            | [website](https://andrekoenig.de)                                                    |
-| Georg Tavonius           | Software Developer FE / BE               | [website](https://www.tavonius.de)                                                    |
-| Stefan Frede             | Frontend Developer                       | [website](https://www.frede.io/)                                                    |
+| Georg Tavonius           | Software Developer FE / BE               | [website](https://www.tavonius.de)                                                   |
+| Stefan Frede             | Frontend Developer                       | [website](https://www.frede.io/)                                                     |
 | Nils Schönwald           | Software Developer FE                    | [website](https://schoen.world)                                                      | 
-| Linus Rogge              | FE Dev / Designer                        | [website](https://linuscodes.com)
-|
+| Linus Rogge              | FE Dev / Designer                        | [website](https://linuscodes.com)                                                    |
+| Daniel Heid.             | Software Engineer BE / FE                | [website](https://www.daniel-heid.de/)                                               |
 
 ## Berlin
 
