@@ -7,7 +7,7 @@
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: "Inter";
 }
 
 body {
@@ -33,24 +33,132 @@ p {
   margin-bottom: 15px;
 }
 
-header {
-  width: 60%;
+a {
+  color: #FF0000;
 }
 
-#table {
+button {
+  padding: 10px 15px;
+  font-family: "Inter";
+  font-size: 17px;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  -webkit-transition: 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+  transition: 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+button.primary {
+  background: #FF0000;
+  color: #fff;
+  border-color: #FF0000;
+}
+
+button.primary:hover {
+  background: #f00000;
+}
+
+button.secondary {
+  background: none;
+  border-color: #e6e6e6;
+}
+
+button.secondary:hover {
+  background: #f7f7f7;
+}
+
+header {
+  width: 60%;
+  margin-bottom: 100px;
+}
+
+header .cta {
   margin-top: 50px;
 }
 
-#table tr th, #table tr td {
-  padding: 10px 30px 10px 10px;
+.filter-buttons {
+  margin-bottom: 50px;
 }
 
-#table tr th {
+.filter-buttons button {
+  margin-right: 10px;
+}
+
+.table-wrapper h2 {
+  text-transform: capitalize;
+}
+
+#table {
+  margin-bottom: 50px;
+  overflow-x: scroll;
+}
+
+#table table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#table table tr th, #table table tr td {
+  border: 1px solid #e6e6e6;
+  padding: 15px 30px 15px 15px;
+}
+
+#table table tr th {
   text-align: left;
   margin-bottom: 10px;
+  font-weight: 600;
 }
 
-#table tr:nth-child(2n) {
-  background: #f2f2f2;
+#table table tr th:nth-child(1) {
+  width: 35%;
+}
+
+#table table tr th:nth-child(2) {
+  width: 30%;
+}
+
+#table table tr th:nth-child(3) {
+  width: 35%;
+}
+
+.entry-btn {
+  position: fixed;
+  top: -100px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  -webkit-transition: 1s cubic-bezier(0.19, 1, 0.22, 1);
+  transition: 1s cubic-bezier(0.19, 1, 0.22, 1);
+  z-index: 3;
+  will-change: top;
+}
+
+.entry-btn.in-view {
+  top: 30px;
+}
+
+@media screen and (max-width: 800px) {
+  header {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .entry-btn {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  header .cta button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
 }
 /*# sourceMappingURL=master.css.map */

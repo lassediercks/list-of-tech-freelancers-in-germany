@@ -1,63 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>JSON to table</title>
 
-    <!-- stlye -->
-    <link rel="stylesheet" href="https://use.typekit.net/sdu6ktg.css" />
-    <link rel="stylesheet" href="css/master.css" />
-  </head>
-  <body>
-    <main id="app">
+<head>
+   <meta charset="UTF-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <title>Tech Freelancers in Germany</title>
+
+   <!-- stlye -->
+   <link rel="stylesheet" href="https://use.typekit.net/sdu6ktg.css" />
+   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:200,400,500,600,700,900">
+   <link rel="stylesheet" href="css/master.css" />
+</head>
+<body>
+
+   <button class="entry-btn btn primary">
+      Add yourself to the list!
+   </button>
+
+   <main id="app">
       <header>
-        <h1>
-          Tech Freelancers in Germany
-        </h1>
-        <p>
-          I think we (freelancer & client) work better when we talk directly to
-          each other to see if we're the right fit for the job. This is a list I
-          want to point to when someone asks me "if I know someone who can do x"
-        </p>
-        <p>
-          I generally believe exposure is good as a freelancer that's why I did
-          not ask anyone if I am allowed to put them here.
-        </p>
-      </header>
-      <div v-for="city in data" :key="city.name">
-        <h2>{{city.name}}</h2>
-        <div id="table">
-          <table class="table">
-            <thead>
-              <tr>
-                <th>Name</th>
-                <th>Title</th>
-                <th>Website</th>
-                <th>Xing</th>
-                <th>LinkedIn</th>
-                <th>Mail</th>
-              </tr>
-            </thead>
-            <tbody>
-              <template v-for="(freelancer, index) in city.freelancer">
-                <tr>
-                  <td>{{freelancer.name}}</td>
-                  <td>{{freelancer.title}}</td>
-                  <td>{{freelancer.website}}</td>
-                  <td>{{freelancer.xing ? freelancer.xing : ''}}</td>
-                  <td>{{freelancer.linkedIn ? freelancer.linkedIn : ''}}</td>
-                  <td>{{freelancer.mail}}</td>
-                </tr>
-              </template>
-            </tbody>
-          </table>
-        </div>
-      </div>
-    </main>
+         <h1>
+            Tech Freelancers in Germany
+         </h1>
+         <p>
+            I think we (freelancer & client) work better when we talk directly to each other to see if we're the right fit for the job. This is a list I want to point to when someone asks me "if I know someone who can do x"
+         </p>
+         <p>
+            I generally believe exposure is good as a freelancer that's why I did not ask anyone if I am allowed to put them here.
+         </p>
 
-    <!-- script -->
-    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <script src="../freelancers.js"></script>
-  </body>
+         <div class="cta">
+            <button class="btn primary">
+               Add yourself to the list!
+            </button>
+            <button class="btn secondary">
+               Share this!
+            </button>
+         </div>
+      </header>
+
+      <div class="filter-buttons">
+         <h2>
+            Filter entries
+         </h2>
+         
+         <button v-for="city in data" :key="city.name" class="secondary">{{ city.name }}</button>
+      </div>
+
+      <div v-for="city in data" :key="city.name" class="table-wrapper">
+         <h2>{{city.name}}</h2>
+         <div id="table">
+            <table class="table">
+               <thead>
+                  <tr>
+                     <th>Name</th>
+                     <th>Title</th>
+                     <th>Contact</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <template v-for="(freelancer, index) in city.freelancer">
+                     <tr>
+                        <td>
+                           {{freelancer.name}}
+                        </td>
+                        <td>
+                           {{freelancer.title}}
+                        </td>
+                        <td>
+                           <a :href="freelancer.website" target="_blank">Website</a>{{ freelancer.xing ? ', ' : '' }}<a :href="freelancer.xing ? freelancer.xing : ''" target="_blank">{{freelancer.xing ? 'Xing' : ''}}</a>{{ freelancer.linkedIn ? ', ' : '' }}<a :href="freelancer.linkedIn ? freelancer.linkedIn : ''" target="_blank">{{ freelancer.linkedIn ? 'LinkedIn' : '' }}</a>{{ freelancer.mail ? ', ' : '' }}<a :href="freelancer.mail ? 'mailto:' + freelancer.mail : ''">{{ freelancer.mail ? 'Mail' : '' }}</a>
+                        </td>
+                     </tr>
+                  </template>
+               </tbody>
+            </table>
+         </div>
+      </div>
+   </main>
+
+   <!-- script -->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+   <script src="../freelancers.js"></script>
+   <script src="js/master.js"></script>
+</body>
+
 </html>
