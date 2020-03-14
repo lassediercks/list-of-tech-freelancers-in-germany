@@ -80,6 +80,10 @@ header {
 
    .cta {
       margin-top: 50px;
+      
+      button {
+         margin-right: 10px;
+      }
    }
 }
 
@@ -89,6 +93,13 @@ header {
 
    button {
       margin-right: 10px;
+      text-transform: capitalize;
+
+      &.active {
+         background: $highlight;
+         color: $light;
+         border-color: $highlight;
+      }
    }
 }
 
@@ -96,6 +107,14 @@ header {
 .table-wrapper {
    h2 {
       text-transform: capitalize;
+   }
+}
+
+.filter-table {
+   display: none;
+
+   &.show {
+      display: block;
    }
 }
 
@@ -176,30 +195,40 @@ header {
    }
 }
 
-// @media (prefers-color-scheme: dark) {
-//    body {
-//       background: $dark;
-//    }
+@media (prefers-color-scheme: dark) {
+   body {
+      background: $dark;
+   }
 
-//    h1, h2, h3, h4, h5, h6 {
-//       color: $light;
-//    } 
+   h1, h2, h3, h4, h5, h6 {
+      color: $light;
+   } 
 
-//    p {
-//       color: $light;
-//       opacity: 0.4;
-//    }
+   p {
+      color: $light;
+      opacity: 0.4;
+   }
 
-//    #table {
+   button {
+      &.secondary {
+         border-color: darken($color: $light, $amount: 90%);
+         color: $light;
 
-//       table.table {
-//          color: $light;
+         &:hover {
+            background: lighten($color: $dark, $amount: 5%);
+         }
+      }
+   }
+
+   #table {
+      table.table {
+         color: $light;
          
-//          tr {
-//             &:nth-child(2n) {
-//                background: lighten($color: $dark, $amount: 5%);
-//             }
-//          }
-//       }
-//    }
-// }
+         tr {
+            th, td {
+               border-color: darken($color: $light, $amount: 90%);
+            }
+         }
+      }
+   }
+}

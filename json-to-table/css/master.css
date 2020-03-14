@@ -76,16 +76,35 @@ header .cta {
   margin-top: 50px;
 }
 
+header .cta button {
+  margin-right: 10px;
+}
+
 .filter-buttons {
   margin-bottom: 50px;
 }
 
 .filter-buttons button {
   margin-right: 10px;
+  text-transform: capitalize;
+}
+
+.filter-buttons button.active {
+  background: #FF0000;
+  color: #fff;
+  border-color: #FF0000;
 }
 
 .table-wrapper h2 {
   text-transform: capitalize;
+}
+
+.filter-table {
+  display: none;
+}
+
+.filter-table.show {
+  display: block;
 }
 
 #table {
@@ -159,6 +178,32 @@ header .cta {
   header .cta button {
     width: 100%;
     margin-bottom: 10px;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #000;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color: #fff;
+  }
+  p {
+    color: #fff;
+    opacity: 0.4;
+  }
+  button.secondary {
+    border-color: #1a1a1a;
+    color: #fff;
+  }
+  button.secondary:hover {
+    background: #0d0d0d;
+  }
+  #table table.table {
+    color: #fff;
+  }
+  #table table.table tr th, #table table.table tr td {
+    border-color: #1a1a1a;
   }
 }
 /*# sourceMappingURL=master.css.map */

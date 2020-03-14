@@ -43,14 +43,15 @@
          <h2>
             Filter entries
          </h2>
-         
-         <button v-for="city in data" :key="city.name" class="secondary">{{ city.name }}</button>
+
+         <button class="btn secondary active" v-on:click="filterSelection('all')">All</button>
+         <button v-for="city in data" :key="city.name" class="btn secondary" v-on:click="filterSelection(city.name)">{{ city.name }}</button>
       </div>
 
-      <div v-for="city in data" :key="city.name" class="table-wrapper">
+      <div v-for="city in data" :key="city.name" class="table-wrapper filter-table" :class="city.name">
          <h2>{{city.name}}</h2>
          <div id="table">
-            <table class="table">
+            <table :class="city.name" class="table">
                <thead>
                   <tr>
                      <th>Name</th>
@@ -75,6 +76,7 @@
                </tbody>
             </table>
          </div>
+         <!-- <hr> -->
       </div>
    </main>
 
@@ -84,5 +86,4 @@
    <script src="../freelancers.js"></script>
    <script src="js/master.js"></script>
 </body>
-
 </html>

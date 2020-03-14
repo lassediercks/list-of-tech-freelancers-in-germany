@@ -41,14 +41,15 @@ const data = {
             xing: "https://www.xing.com/profile/Anna_Melzer",
          }
       ]
+   },
+   cologne: {
+      name: "cologne",
+      freelancer: [
+         {
+            name: "Osamah Aldoaiss",
+            title: "UI-Engineer",
+            website: "https://www.aldoaiss.de/"
+         }
+      ]
    }
 };
-
-var app = new Vue({
-   el: "#app",
-   data() {
-      return {
-         data
-      };
-   }
-});
