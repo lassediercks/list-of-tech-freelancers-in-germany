@@ -49,6 +49,7 @@
 | Nils Schönwald           | Software Developer FE                    | [website](https://schoen.world)                                                      | 
 | Linus Rogge              | FE Dev / Designer                        | [website](https://linuscodes.com)                                                    |
 | Daniel Heid.             | Software Engineer BE / FE                | [website](https://www.daniel-heid.de/)                                               |
+| Torsten Bøgh Köster      | Senior Search & Operations Engineer      | [Website](https://www.thiswayup.de/)                                                 |
 
 ## Berlin
 
