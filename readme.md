@@ -79,6 +79,7 @@
 | Lea Rosema           | Software Developer BE / FE                     | [website](https://terabaud.github.io), [Xing](https://www.xing.com/profile/Lea_Rosema)                                                      |
 | Stefan Strigler      | Software Developer BE                          | [LinkedIn](https://www.linkedin.com/in/stefan-strigler-78494b6b/)                                                                           |
 | Jonas Havers         | Software Engineer BE / FE, Architect, Trainer  | [website](https://jonas-havers.de), [Xing](https://www.xing.com/profile/Jonas_Havers), [LinkedIn](https://www.linkedin.com/in/jonashavers/) |
+| Jasveen Sandral      | Software Developer BE                          | [LinkedIn](https://www.linkedin.com/in/jasveens/)                                                                           |
 
 ## Glossary
 
