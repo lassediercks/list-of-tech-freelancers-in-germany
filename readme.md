@@ -74,6 +74,7 @@
 
 | Name                 | Title                                          | Contact                                                                                                                                     |
 | -------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Robert Kowalski      | Tech Lead BE                        | [Linkedin](https://www.linkedin.com/in/robert-kowalski-81372797/)                                                                            |
 | Felix Goldstein      | Full-Stack Webdeveloper                        | [Linkedin](https://www.linkedin.com/in/felix-goldstein-3623293/)                                                                            |
 | Manuel Arno Korfmann | Software Developer BE / FE                     | [E-Mail](mailto:manu@korfmann.info)                                                                                                         |
 | Lea Rosema           | Software Developer BE / FE                     | [website](https://terabaud.github.io), [Xing](https://www.xing.com/profile/Lea_Rosema)                                                      |
