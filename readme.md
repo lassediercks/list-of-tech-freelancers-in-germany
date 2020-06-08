@@ -6,7 +6,7 @@ To highlight the results of inequality and structural racism I decided to tempor
 
 | Name | Title | Contact |
 | ---- | ----- | ------- |
-|      |       |         |
+| Jaap Groeneveld          | Lead BE Developer & Coach                     | [website](http://jgroeneveld.de/) - [xing](https://www.xing.com/profile/Jaap_Groeneveld) 
 
 ## Berlin
 
@@ -30,7 +30,7 @@ To highlight the results of inequality and structural racism I decided to tempor
 
 | Name | Title | Contact |
 | ---- | ----- | ------- |
-|      |       |         |
+| Jaap Groeneveld          | Lead BE Developer & Coach                     | [website](http://jgroeneveld.de/) - [xing](https://www.xing.com/profile/Jaap_Groeneveld) 
 
 ## Glossary
 
