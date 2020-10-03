@@ -51,6 +51,7 @@
 | Daniel Heid.             | Software Engineer BE / FE                | [website](https://www.daniel-heid.de/)                                                   |
 | Torsten Bøgh Köster      | Senior Search & Operations Engineer      | [Website](https://www.thiswayup.de/)                                                     |
 | Martin Wilhelmi.         | Software Developer BE / FE               | [Xing](https://www.xing.com/profile/Martin_Wilhelmi)                                     |
+| Timo Kleemann            | Frontend Developer                       | [Xing](https://www.xing.com/profile/Timo_Kleemann)  [Website](https://www.timokleemann.de)|
 
 ## Berlin
 
